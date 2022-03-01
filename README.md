@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavadZandiyeh&show_icons=true&theme=gruvbox)](https://github.com/JavadZandiyeh/JavadZandiyeh)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavadZandiyeh&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/JavadZandiyeh/JavadZandiyeh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavadZandiyeh&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/JavadZandiyeh/JavadZandiyeh)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavadZandiyeh&repo=AUT-AI)](https://github.com/JavadZandiyeh/AUT-AI)
