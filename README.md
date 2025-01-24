@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Mohammad Javad Zandiyeh
-I'm currently a **computer engineering student** at Amirkabir University of Technology (**Tehran Polytechnic**)<br/><br/>
+MSc Artificial Intelligence at Politecnico di Milano<br/><br/>
+BSc Computer Engineering at Amirkabir University of Technology<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavadZandiyeh&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/JavadZandiyeh/JavadZandiyeh)<br/>
