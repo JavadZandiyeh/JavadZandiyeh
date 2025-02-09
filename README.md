@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mohammad Javad Zandiyeh
+# Javad Zandiyeh
 MSc Artificial Intelligence at Politecnico di Milano<br/><br/>
 BSc Computer Engineering at Amirkabir University of Technology<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavadZandiyeh&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/JavadZandiyeh/JavadZandiyeh)<br/>
